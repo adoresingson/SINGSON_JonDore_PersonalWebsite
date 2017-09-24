@@ -174,3 +174,11 @@ header {
 .copyright2:hover{
     color:aqua;
 }
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
