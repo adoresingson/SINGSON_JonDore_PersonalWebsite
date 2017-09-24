@@ -117,3 +117,33 @@ header {
 	url(img/offwhite.jpg);
     text-align: center;
 }
+
+.work {
+	height: 300px;
+	padding: 2% 0;
+}
+
+.work h3 {
+	padding: 4% 0% 0% 0%;
+    margin-top: 4%;
+}
+
+.text-box {
+	float: left;
+	text-align: left;
+	width: 480px;
+	background-color: #242424;
+	height: 100%;
+}
+
+.text-box-content {
+	padding: 4% 4% 4% 20%;
+}
+
+.text-box-content p {
+    font-family: calibri, sans-serif;
+	color: #fff;
+	letter-spacing: .01em;
+	font-size: 1em;
+    text-align: justify;
+}
