@@ -147,3 +147,30 @@ header {
 	font-size: 1em;
     text-align: justify;
 }
+
+.image-area {
+	width: 480px;
+	height: 300px;
+	overflow: hidden;
+    padding: 4% 7% 4% 7%;
+}
+
+.copyright {
+    color: #fff;
+    font-size: 10px;
+    margin-top: 0;
+}
+
+.copyright2 {
+    color: #fff;
+    font-size: 9px;
+    margin-top: 0;
+}
+
+.copyright:hover{
+    color:aqua;
+}
+
+.copyright2:hover{
+    color:aqua;
+}
