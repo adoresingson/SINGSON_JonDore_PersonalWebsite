@@ -38,3 +38,11 @@ h3 {
 	font-weight: 800;
     
 }
+
+header {
+	background: linear-gradient( rgba(0, 64, 82, 0.75), rgba(15, 108, 134, 0.75)), /* bottom, image */
+	url(img/offwhite.jpg);
+	background-size:cover;
+	background-position: center top;
+	width: 100%;
+}
