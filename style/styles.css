@@ -83,3 +83,31 @@ header {
 	letter-spacing: 0.09em;
 }
 
+.wrapper {
+	max-width: 960px;
+	margin: 0 auto;
+	font-family: proxima-nova, sans-serif;
+	-webkit-animation-delay: 4s;
+	animation-delay: 2s;
+}
+
+.about {
+	padding: 4% 0;
+}
+
+.about p {
+	font-family: proxima-nova, sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 1.8;
+	color: #fff;
+	letter-spacing: .03em;
+	margin: 10px auto;
+	font-size: 1.5em;
+	padding: 2% 0;
+}
+
+.about p a {
+	color: #fff;
+	border-bottom: 2px solid;
+}
