@@ -56,3 +56,30 @@ header {
     float: left;
     
 }
+
+.intro {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 8% 0;
+}
+
+.intro h1 {
+	font-size: 4em;
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-weight: 800;
+	line-height: 1.5em;
+}
+
+.intro h2 {
+    font-family: proxima-nova, sans-serif;
+	font-size: 2em;
+	text-align: center;
+	color: #fff;
+	font-weight: 500;
+	text-transform: capitalize;
+	letter-spacing: 0.09em;
+}
+
