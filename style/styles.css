@@ -215,3 +215,54 @@ header {
 .contact-content a:hover {
     color:#304a50;
 }
+
+.image-divider {
+	padding: 5% 0;
+	background: /* bottom, image */
+	url(img/abstract.jpg);
+	background-size: cover;
+	background-position: center top;
+}
+
+footer {
+    background-color:#424240;
+    color:#fff;
+    padding:1% 0;
+    width:100%;
+    clear:both;
+    height:100px;
+}
+
+.footer-content {
+    max-width:960px;
+    padding:1% 0;
+    margin: auto;
+    font-family: trebuchet ms,sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 1.4;
+    color: #fff;
+    letter-spacing: .03em;
+    font-size:1em;
+}
+
+
+.social {
+    text-align: center;
+}
+
+.social li {
+    display:inline-block;
+}
+
+.social li a {
+    color:#fff;
+    padding:0.90em;
+    text-transform: uppercase;
+    font-size:1.8em;
+    font-weight:300;
+}
+
+.social li a:hover {
+    color:#003847;
+}
