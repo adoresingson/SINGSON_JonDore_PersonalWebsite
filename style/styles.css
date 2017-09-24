@@ -111,3 +111,9 @@ header {
 	color: #fff;
 	border-bottom: 2px solid;
 }
+
+.knowmore {
+    background: linear-gradient( rgba(0, 64, 82, 0.75), rgba(15, 108, 134, 0.75)), /* bottom, image */
+	url(img/offwhite.jpg);
+    text-align: center;
+}
