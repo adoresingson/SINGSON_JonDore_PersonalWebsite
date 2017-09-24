@@ -46,3 +46,13 @@ header {
 	background-position: center top;
 	width: 100%;
 }
+
+.profile {
+    padding: 6% 4% 4% 4%;
+    margin: auto;
+	width: 240px;
+	height: 240px;
+	overflow: hidden;
+    float: left;
+    
+}
