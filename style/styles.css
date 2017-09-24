@@ -12,3 +12,20 @@ a {
 	transition: 1s;
 	text-decoration: none;
 }
+
+em {
+	font-style: oblique;
+}
+
+strong {
+	font-style: bold;
+}
+
+img {
+	width: 100%;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: proxima-nova, sans-serif;
+	font-style: normal;
+}
