@@ -83,6 +83,8 @@ header {
 	font-weight: 500;
 	text-transform: capitalize;
 	letter-spacing: 0.09em;
+    animation: blur .75s ease-out infinite;
+    text-shadow: 0px 0px 5px #7B96B8, 0px 0px 7px #7B96B8;
 }
 
 .wrapper {
