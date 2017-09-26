@@ -309,3 +309,19 @@ footer {
     color: #fff;
     position: relative;
 }
+
+.social li a:before{
+    content: '';
+    width: 10px;
+    height: 5px;
+    background: #fff;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    transition: .5s;
+}
+
+.social li:hover a:before{
+    width: 50%;
+    transform: translateX(100%);
+}
