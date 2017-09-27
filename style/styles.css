@@ -261,14 +261,6 @@ header {
     color:#304a50;
 }
 
-.image-divider {
-	padding: 5% 0;
-	background: /* bottom, image */
-	url(img/abstract.jpg);
-	background-size: cover;
-	background-position: center top;
-}
-
 footer {
     background-color:#424240;
     color:#fff;
