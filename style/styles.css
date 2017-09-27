@@ -1,7 +1,8 @@
 body {
 	background-color: #242424;
-    	-webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+    overflow: auto;
 }
 
 a {
@@ -36,7 +37,6 @@ h3 {
 	padding: 0 0 1% 0;
 	color: #fff;
 	font-weight: 800;
-    
 }
 
 header {
@@ -202,11 +202,9 @@ header {
 	width: 480px;
 	height: 300px;
 	overflow: hidden;
-    	padding: 3% 3% 3% 3%;
-    	border: 2px dashed  #ffffff;
-    	box-shadow: 0 0 0 2px #575757;
+    padding: 3% 3% 3% 3%;
+    border: 2px dashed  #ffffff;
 }
-
 
 .copyright {
     color: #fff;
@@ -228,6 +226,7 @@ header {
     color:aqua;
 }
 
+
 .left {
 	float: left;
 }
@@ -238,9 +237,7 @@ header {
 
 .contact {
 	width: 100%;
-	background-color: #575757;
-	padding: 2px 0;
-	margin-top: 5%;
+	padding: % 0 1% 1%;
 	clear: both;
 }
 
@@ -332,3 +329,4 @@ footer {
     width: 50%;
     transform: translateX(100%);
 }
+
