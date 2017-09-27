@@ -157,7 +157,15 @@ header {
 .knowmore {
     background: linear-gradient( rgba(0, 64, 82, 0.75), rgba(15, 108, 134, 0.75)), /* bottom, image */
 	url(img/offwhite.jpg);
+    background-size: cover;
+	background-position: center top;
     text-align: center;
+    color: #fff;
+    text-shadow: 4px 4px 1px #300000;
+    4px 6px 1px #400000; 
+    4px 8px 1px #500000;
+    4px 60px 5px #FF0000;
+
 }
 
 .work {
@@ -294,6 +302,7 @@ footer {
 .social li {
     list-style: none;
     padding: 5px 10px;
+    margin-right: 3%;
 }
 
 .social li a{
@@ -302,6 +311,10 @@ footer {
     font-size: 2em;
     color: #fff;
     position: relative;
+    text-shadow: 4px 4px 1px #300000;
+    4px 6px 1px #400000; 
+    4px 8px 1px #500000;
+    4px 60px 5px #FF0000;
 }
 
 .social li a:before{
