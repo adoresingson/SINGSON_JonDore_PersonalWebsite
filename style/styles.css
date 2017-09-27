@@ -238,18 +238,17 @@ header {
 
 .contact-content {
 	max-width: 960px;
-	margin: auto;
 	text-align: center;
 }
 
 .contact-content h4 {
     font-family: trebuchet ms,sans-serif;
 	font-size: 1.875em;
-	padding: 1% 0;
+	padding: 1% 0 1% 0;
 	color: #fff;
 	font-weight: 600;
 	letter-spacing: 0.05em;
-    text-align: center;
+    text-align: left;
 }
 
 .contact-content a {
@@ -260,6 +259,7 @@ header {
 .contact-content a:hover {
     color:#304a50;
 }
+
 
 footer {
     background: linear-gradient( rgba(0, 64, 82, 0.75), rgba(15, 108, 134, 0.75)), /* bottom, image */
