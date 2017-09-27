@@ -262,17 +262,19 @@ header {
 }
 
 footer {
-    background-color:#424240;
+    background: linear-gradient( rgba(0, 64, 82, 0.75), rgba(15, 108, 134, 0.75)), /* bottom, image */
+	url(img/offwhite.jpg);
+    background-size: cover;
+	background-position: center top;
     color:#fff;
     padding:1% 0;
     width:100%;
     clear:both;
-    height:100px;
+    height:50px;
 }
 
 .footer-content {
     max-width:960px;
-    padding:1% 0;
     margin: auto;
     font-family: trebuchet ms,sans-serif;
     font-style: normal;
